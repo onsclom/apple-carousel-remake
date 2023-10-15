@@ -5,7 +5,7 @@
 </script>
 
 <div class="space-y-5">
-	<div class="flex items-center justify-center space-x-5">
+	<div class="flex items-center justify-center space-x-3">
 		<button
 			class="h-12 w-12 rounded-full bg-gray-200 text-lg hover:bg-gray-100"
 			on:click={() => (index -= 1)}>←</button
